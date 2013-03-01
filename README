@@ -1,5 +1,7 @@
 ###Sample Max Button###
 
+An Android Custom Button.
+
 Here is a example to use MaxButton.
 
 This button change his own opacity on touch event.
