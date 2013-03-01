@@ -1,0 +1,7 @@
+<h2>Sample Max Button</h2> 
+
+Here is a example to use MaxButton.
+
+This button change his own opacity on touch event.
+
+Add MaxButton Class to your project and use it in your XML file.
